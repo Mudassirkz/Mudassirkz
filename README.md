@@ -65,4 +65,3 @@
 <img align="center" alt="Mudassir @Instagram" width="50px" src="assets/handles/instagram.svg" />&nbsp;
 </a>
 </p>
-
