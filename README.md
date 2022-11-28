@@ -20,7 +20,7 @@
                       
 </p>
 
-<p align="center">
+<p align="left">
 <i><b>Currently Working and Learning:</b></i> 
   <br><br>
   <img align="center" src="assets/languages/react-native.png" width="50px" />&nbsp;
@@ -34,7 +34,7 @@
 
 <hr>
 
-<p align="center">
+<p align="left">
 <i><b>Tools known:</b></i> 
   <br><br>
    <img align="center" src="assets/tools/android-studio.svg" width="50px" />&nbsp;
@@ -47,7 +47,7 @@
 
 <hr>
 
-<p align="center">
+<p align="left">
 <i><b>Profiles:</b></i> 
   <br><br>
 <a href="m.mudassirkz@gmail.com">
