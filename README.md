@@ -1,6 +1,6 @@
 <h3>Hi, <img align="center" src="assets/gifs/Hi.gif" width="20px" />&nbsp;</h3>
 
-<p>I am a Software Engineer, Expert in front-end development. Continuous working on a Scalable, Dynamic, fully mobile friendly Web💻 & Mobile applications📱)</p>
+<p>I am a Software Engineer, Expert in front-end development. Continuous working on a Scalable, Dynamic, fully responsive (mobile friendly) Web💻 & Mobile applications📱)</p>
 
 <p>🎉 Also have good experience in MERN stack development.</p>
 
