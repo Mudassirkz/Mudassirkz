@@ -16,9 +16,6 @@
 
 <br/>
                
-<p align="left"> 
-                      
-</p>
 
 <p align="left">
 <i><b>Currently Working and Learning:</b></i> 
