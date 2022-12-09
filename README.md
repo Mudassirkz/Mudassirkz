@@ -2,7 +2,7 @@
 
 <p>I am a Software Engineer, Expert in Front-end development. Continuous working on a Scalable, Dynamic, fully responsive (mobile friendly) Web💻 & Mobile applications📱)</p>
 
-<p>🎉 Also have good experience in MERN stack development</p>
+<p>🎉 Also have good experience in MERN stack development.</p>
 
 - 🔭 I’m currently contributing in [WebHR (Cloud Base HR Product)](https://web.hr/) and [HireSide (Gig Economy Based Product)](https://hireside.com/)
 
