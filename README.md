@@ -8,7 +8,7 @@
 
 - 🖥 I’m currently learning **Typescript, Amazon Web Services (AWS)**
 
-- 💬 Ask me about **React, React-Native, Next.js, Gatsby.js, Javascript, React-Stack, Redux, Redux-Toolkit, Context-API, High-Charts, React-Bootstrap, React-JSS, Material-UI**
+- 💬 Ask me about **React, React-Native, Next.js, Gatsby.js, Javascript, React-Stack, Redux, Redux-Toolkit, Context-API, High-Charts, React-Bootstrap, React-JSS, Material-UI, Google Workspace**
 
 - 📫 How to reach me **m.mudassirkz@gmail.com**
 
