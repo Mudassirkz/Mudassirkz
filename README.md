@@ -35,7 +35,7 @@
 <hr>
 
 <p align="left">
-<i><b>Tools known:</b></i> 
+<i><b>Tools known</b></i> 
   <br><br>
    <img align="center" src="assets/tools/android-studio.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/vs-code.svg" width="50px" />&nbsp;
