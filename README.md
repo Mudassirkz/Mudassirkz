@@ -62,6 +62,6 @@
 </a>
 
 <a href="https://www.instagram.com/mudassir__kz/">
-<img align="center" alt="Mudassir @Instagram" width="45px" src="assets/handles/instagram.svg" />&nbsp;
+<img align="center" alt="Mudassir @Instagram" width="50px" src="assets/handles/instagram.svg" />&nbsp;
 </a>
 </p>
