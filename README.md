@@ -58,7 +58,7 @@
 </a>
   
 <a href="https://twitter.com/mudassirkzee">
-<img align="center" alt="Mudassir @Twitter" width="50" src="assets/handles/twitter.svg" />&nbsp;
+<img align="center" alt="Mudassir @Twitter" width="50px" src="assets/handles/twitter.svg" />&nbsp;
 </a>
 
 <a href="https://www.instagram.com/mudassir__kz/">
