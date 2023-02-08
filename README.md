@@ -8,7 +8,7 @@
 
 - 🖥 I’m currently learning **Typescript, Amazon Web Services (AWS), Web 3.0 Blockchain development**
 
-- 💬 Ask me about **React, React-Native, Next.js, Gatsby.js, Javascript, React-Stack, Redux, Redux-Toolkit, Context-API, High-Charts, React-Bootstrap, React-JSS, Tailwind, Material-UI**
+- 💬 Ask me about **React, React-Native, Next.js, Gatby.js, Javascript, React-Stack, Redux, Redux-Toolkit, Context-API, High-Charts, React-Bootstrap, React-JSS, Tailwind, Material-UI**
 
 - 📫 How to reach me **m.mudassirkz@gmail.com**
 
