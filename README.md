@@ -16,7 +16,7 @@
 
 <br/>
                
-<p align="left">
+<p align="Right">
 
 </p>
 
