@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently contributing in [WebHR (Cloud Base HR Product)](https://web.hr/) and [HireSide (Gig Economy Based Product)](https://hireside.com/)
 
-- 🖥 I’m currently learning **Typescript, Amazon Web Services, Web 3.0 Blockchain development**
+- 🖥 I’m currently learning **Typescript, Amazon Web Services (AWS), Web 3.0 Blockchain development**
 
 - 💬 Ask me about **React, React-Native, Next.js, Gatsby.js, Javascript, React-Stack, Redux, Redux-Toolkit, Context-API, High-Charts, React-Bootstrap, React-JSS, Tailwind, Material-UI**
 
