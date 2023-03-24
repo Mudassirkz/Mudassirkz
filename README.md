@@ -23,11 +23,11 @@
 <p align="left">
 <i><b>Currently Working and Learning:</b></i> 
   <br><br>
+   <img align="center" src="assets/languages/react.png" width="50px" />&nbsp;
   <img align="center" src="assets/languages/react-native.png" width="50px" />&nbsp;
   <img align="center" src="assets/languages/python.svg" width="50px" />&nbsp;
   <img align="center" src="assets/languages/html-5.svg" width="50px" />&nbsp;
     <img align="center" src="assets/languages/nodejs.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/react.png" width="50px" />&nbsp;
   <img align="center" src="assets/languages/css.svg" width="50px" />&nbsp;
   <img align="center" src="assets/languages/javascript.svg" width="50px" />&nbsp;
 </p>
