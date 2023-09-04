@@ -1,4 +1,4 @@
-<h3>Hi,<img align="center" src="assets/gifs/Hi.gif" width="10px" />&nbsp;</h3>
+<h3>Hi,<img align="center" src="assets/gifs/Hi.gif" width="20px" />&nbsp;</h3>
 
 <p>I am a Software Engineer, Expert in Frontend development. Continuous working on Scalable, Dynamic, Fully Responsive (Mobile Friendly) Web💻 & Mobile applications📱)</p>
 
