@@ -1,67 +1,50 @@
-<h3>Hi,<img align="center" src="assets/gifs/Hi.gif" width="22px" />&nbsp;</h3>
+<h1 align="center">Hi, <img src="assets/gifs/Hi.gif" width="22px" />&nbsp; I'm Muhammad Mudassir</h1>
 
-<p>I am a Software Engineer, Expert in Frontend development. Continuous working on Scalable, Dynamic, Fully Responsive (Mobile Friendly) Web💻 & Mobile applications📱)</p>
+<p align="center">🚀 Software Engineer | Frontend Developer | MERN Stack Enthusiast 🌟</p>
 
-<p>🎉 Also have good experience in MERN Stack Development</p>
-
-- 🔭 I’m currently contributing in [WebHR (Cloud Base HR Product)](https://web.hr/) and [HireSide (Gig Economy Based Product)](https://hireside.com/)
-
-- 🖥 I’m currently learning **Typescript, Amazon Web Services (AWS), Web 3.0 Blockchain development**
-
-- 💬 Ask me about **React, React-Native, Next.js, Gatsby.js, Javascript, React-Stack, Redux, Redux-Toolkit, Context-API, High-Charts, React-Bootstrap, React-JSS, Tailwind, Material-UI**
-
-- 📫 How to reach me **m.mudassirkz@gmail.com**
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mudassirkz)
-
-<br/>
-               
-<p align="Right">
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-mudassir-107029237/">
+    <img src="assets/handles/linkedin.svg" width="25px" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/mudassirkzee">
+    <img src="assets/handles/twitter.svg" width="25px" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/mudassir__kz/">
+    <img src="assets/handles/instagram.svg" width="25px" alt="Instagram" />
+  </a>
+  <a href="mailto:m.mudassirkz@gmail.com">
+    <img src="assets/handles/gmail.svg" width="25px" alt="Email" />
+  </a>
 </p>
 
-<p align="left">
-<i><b>Currently Working and Learning:</b></i> 
-  <br><br>
-   <img align="center" src="assets/languages/react.png" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/react-native.png" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/python.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/html-5.svg" width="50px" />&nbsp;
-    <img align="center" src="assets/languages/nodejs.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/css.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/languages/javascript.svg" width="50px" />&nbsp;
+<hr />
+
+<h2 align="center">About Me</h2>
+
+<p align="center">I'm passionate about building scalable and fully responsive web and mobile applications. Currently, I'm contributing to <a href="https://web.hr/">WebHR</a> and <a href="https://hireside.com/">HireSide</a>.</p>
+
+<h2 align="center">Tech Stack</h2>
+
+<p align="center">
+  <img src="assets/languages/react.png" width="40px" alt="React" />
+  <img src="assets/languages/react-native.png" width="40px" alt="React Native" />
+  <img src="assets/languages/python.svg" width="40px" alt="Python" />
+  <img src="assets/languages/html-5.svg" width="40px" alt="HTML5" />
+  <img src="assets/languages/nodejs.svg" width="40px" alt="Node.js" />
+  <img src="assets/languages/css.svg" width="40px" alt="CSS" />
+  <img src="assets/languages/javascript.svg" width="40px" alt="JavaScript" />
 </p>
 
-<hr>
+<h2 align="center">Tools</h2>
 
-<p align="left">
-<i><b>Tools known:</b></i> 
-  <br><br>
-   <img align="center" src="assets/tools/android-studio.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/vs-code.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/microsoft-office.svg" width="55px" />&nbsp;
- <img align="center" src="assets/tools/xcode.svg" width="55px" />&nbsp;
-  <img align="center" src="assets/tools/cmd.svg" width="50px" />&nbsp;
-  <img align="center" src="assets/tools/github.svg" width="55px" />&nbsp;
+<p align="center">
+  <img src="assets/tools/android-studio.svg" width="40px" alt="Android Studio" />
+  <img src="assets/tools/vs-code.svg" width="40px" alt="VS Code" />
+  <img src="assets/tools/microsoft-office.svg" width="45px" alt="Microsoft Office" />
+  <img src="assets/tools/xcode.svg" width="45px" alt="Xcode" />
+  <img src="assets/tools/cmd.svg" width="40px" alt="Command Prompt" />
+  <img src="assets/tools/github.svg" width="45px" alt="GitHub" />
 </p>
 
-<hr>
+<p align="center">Let's connect and collaborate on exciting projects! 🚀</p>
 
-<p align="left">
-<i><b>Profiles:</b></i> 
-  <br><br>
-<a href="m.mudassirkz@gmail.com">
-<img align="center" alt="Mudassir @Mail" width="50px" src="assets/handles/gmail.svg" />&nbsp;
-</a>
-<a href="https://www.linkedin.com/in/muhammad-mudassir-107029237/">
-<img align="center" alt="Mudassir @LinkedIN" width="50px" src="assets/handles/linkedin.svg" />&nbsp;
-</a>
-  
-<a href="https://twitter.com/mudassirkzee">
-<img align="center" alt="Mudassir @Twitter" width="50px" src="assets/handles/twitter.svg" />&nbsp;
-</a>
-
-<a href="https://www.instagram.com/mudassir__kz/">
-<img align="center" alt="Mudassir @Instagram" width="50px" src="assets/handles/instagram.svg" />&nbsp;
-</a>
-</p>
