@@ -48,7 +48,7 @@
 <hr>
 
 <p align="left">
-<i><b>Profiles:</b></i> 
+<i><b>Profiles</b></i> 
   <br><br>
 <a href="m.mudassirkz@gmail.com">
 <img align="center" alt="Mudassir @Mail" width="50px" src="assets/handles/gmail.svg" />&nbsp;
