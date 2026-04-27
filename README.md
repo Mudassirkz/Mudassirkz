@@ -1,6 +1,6 @@
 <h3>Hey,<img align="center" src="assets/gifs/Hi.gif" width="22px" />&nbsp;</h3>
 
-<p>I am a Software Engineer, Experties in Frontend Development. Continuous working on Scalable, Dynamic, Fully Responsive (Mobile Friendly) Web💻 & Mobile applications📱)</p>
+<p>I am a Software Engineer, Experties in Fullstack Development. Continuous working on Scalable, Dynamic, Fully Responsive (Mobile Friendly) Web💻 & Mobile applications📱)</p>
 
 <p>🎉 Also have good experience in MERN Stack Development</p>
 
